@@ -189,7 +189,7 @@ legend{display:none}
 #prevdetails .fl_right ul li.layout{background-position:0 -82px}
 #prevdetails .fl_right ul li.contrast{background-position:0 -123px}
 #prevdetails .fl_right ul li.colours{background-position:0 -164px}
-#prevdetails .fl_right ul li.colours ul li{display:inline; width:16px; height:16px; margin:0 5px 0 0}
+#prevdetails .fl_right ul li.colours ul li{display:inline; width : 16px; height : 16px; margin:0 5px 0 0}
 #prevdetails .fl_right ul li.licence{background-position:0 -205px}
 #prevdetails .fl_right ul li.added{background-position:0 -246px}
 #prevdetails .tags{display:block; clear:both; margin:25px 0; padding:0 0 0 25px; background:url("../images/preview/sprite.png") 0 -287px no-repeat; line-height:normal; word-wrap:break-word}
@@ -233,7 +233,7 @@ legend{display:none}
 #header #topbanner #bsap_1306116{display:block; width:100%; margin:0; padding:0; clear:both}
 #header #topbanner #bsap_1306116::after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0}
 #header #topbanner #bsap_1306116 a{display:block; width:100%; margin:0; padding:0}
-#header #topbanner #bsap_1306116 a.even{}
+
 #header #topbanner #bsap_1306116 img{float:none; margin:0; padding:0; border:none; max-width:100%}
 #header #topbanner #bsap_1306116 iframe{margin:0; padding:0; border:none; max-width:100%; max-height:inherit;}
 #header #topbanner #bsap_1306116 a.adhere{display:inline-block; max-width:100%; height:60px; line-height:60px; border:1px solid #ccc; font-size:11px; color:#888; background:#e7e7e7; font-family:verdana, sans-serif; text-align:center; text-decoration:none}
